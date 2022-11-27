@@ -6,8 +6,8 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            flipCoin num = new flipCoin();
-            num.FlipCoin();
+            EvenOdd num = new EvenOdd();
+            num.Check_Even_Or_Odd();
         }
     }
 }
