@@ -6,8 +6,8 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            Alphabet num = new Alphabet();
-            num.Check_Char_Vowel_Or_Consonant();
+            flipCoin num = new flipCoin();
+            num.FlipCoin();
         }
     }
 }
